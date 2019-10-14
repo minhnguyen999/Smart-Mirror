@@ -1,8 +1,8 @@
 # Smart Mirror - Ultra Sonic Sensor
 
+# Week 6 (Oct. 15/16) - [Design]()
 
 # Week 5 (Oct. 1/3) - [Invoice](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317%20-%20PartsforProjectInvoice1.docx)
-
 
 # Week 4 (Sept. 24/26) - [Parts for my project](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317-PartsForSmartMirror.xlsx)
 
