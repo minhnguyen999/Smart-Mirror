@@ -6,7 +6,7 @@
 
 # Week 7 (Oct. 15/16) - [Design](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen1.fzz)
 # Breadboard design - [Breadboard](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/breadboard1.png)
-# PCB design - [PCB](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen_pcb2.png)
+# PCB design - [PCB](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen_pcbNEW.png)
 # Schematic design - [Schematic](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen_schem1.png)
 
 # Week 5 (Oct. 1/3) - [Invoice](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317%20-%20PartsforProjectInvoice1.docx)
