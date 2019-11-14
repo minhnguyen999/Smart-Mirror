@@ -4,7 +4,9 @@
 # Hand in sensor range:
 <img src = "documentation/on.jpg" alt = "On Sensor"><br>
 # Hand off sensor range:
-<img src = "documentation/off.jpg" alt = "Off Sensor"><br><br>
+<img src = "documentation/off.jpg" alt = "Off Sensor"><br>
+# Capture:
+<img src = "documentation/Capture.PNG" alt = "Screen"><br><br>
 # Week 9 (Nov. 5/7) - [PCB soldered](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/74580334_780354939059517_512763702949183488_n.jpg)
 # Top side PCB soldered:
 <img src = "documentation/sidetop.jpg" alt = "PCB Connection"><br>
