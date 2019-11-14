@@ -1,4 +1,5 @@
 # Smart Mirror - Ultra Sonic Sensor
+# Status: I have uploaded new pictures of my soldered PCB compared to previous week and the PCB design in Fritzing , i have corrected some connection and now it runs great.
 # Week 10 (Nov. 12/14) - [Power Up](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/on.jpg)
 # Hand in sensor range:
 <img src = "documentation/on.jpg" alt = "On Sensor"><br>
