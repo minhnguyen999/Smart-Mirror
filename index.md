@@ -1,6 +1,6 @@
 # Smart Mirror - Ultra Sonic Sensor
 
-# Week 9 (Nov. 6/7) - [PCB](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/74580334_780354939059517_512763702949183488_n.jpg)
+# Week 9 (Nov. 6/7) - [PCB soldered](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/74580334_780354939059517_512763702949183488_n.jpg)
 <img src = "documentation/74580334_780354939059517_512763702949183488_n.jpg" alt = "PCB Connection"><br>
 # Week 8 (Oct. 29/31) 
 # Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.HEIC)
