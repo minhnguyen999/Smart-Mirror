@@ -4,9 +4,7 @@
 <img src = "documentation/74580334_780354939059517_512763702949183488_n.jpg" alt = "PCB Connection"><br>
 # Week 8 (Oct. 29/31) 
 # Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.HEIC)
-<img src = "documentation/IMG_4305.HEIC" alt = "Light Off"><br>
 # Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.HEIC)
-<img src = "documentation/IMG_4309.HEIC" alt = "Light On"><br>
 
 # Week 7 (Oct. 15/16) - [Design](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen2.fzz)
 # Breadboard design - [Breadboard](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/breadboard1.png)
