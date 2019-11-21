@@ -10,7 +10,7 @@
 <img src = "documentation/off.jpg" alt = "Off Sensor"><br>
 # Capture:
 <img src = "documentation/Capture.PNG" alt = "Screen"><br><br>
-# Status: I have uploaded new pictures of my soldered PCB compared to previous week and the PCB design in Fritzing , i have corrected some connection and now it runs great.
+# Status: I have uploaded new pictures of my soldered PCB compared to previous week and the PCB design in Fritzing , i have corrected some connection and soldered again then now it runs great.
 # Week 9 (Nov. 5/7) - [PCB soldered](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/74580334_780354939059517_512763702949183488_n.jpg)
 # Top side PCB soldered:
 <img src = "documentation/sidetop.jpg" alt = "PCB Connection"><br>
