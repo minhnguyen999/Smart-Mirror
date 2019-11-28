@@ -10,7 +10,7 @@
 # Schematic design - [Schematic](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen_schem1.png)<br>
 
 # Step 3: test the design with breadboard in Ariduino software app with following code:
-
+# Code using in Arduino - [Code](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/arduino%20sensor.docx)
 # Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.HEIC)
 # Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.HEIC)<br>
 
