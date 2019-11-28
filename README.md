@@ -21,20 +21,21 @@
 # Bottom side PCB soldered:
 <img src = "documentation/sidebottom.jpg" alt = "PCB Connection"><br><br>
 
-# Step 5: 
-
-
-# Week 11 (Nov. 19/21) - [Enclosure](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/box.cdr)
-<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/76695280_2584352488312784_4169567359196987392_n.jpg" alt = "Enclosure"><br>
-<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/78144317_439658750079834_1033063986876121088_n.jpg" alt = "Enclosure"><br>
-# Week 10 (Nov. 12/14) - [Power Up](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/on.jpg)
+# Step 5: Test code again with the PCB
+# [Power Up](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/on.jpg)
 # Hand in sensor range:
 <img src = "documentation/on.jpg" alt = "On Sensor"><br>
 # Hand off sensor range:
 <img src = "documentation/off.jpg" alt = "Off Sensor"><br>
 # Capture:
 <img src = "documentation/Capture.PNG" alt = "Screen"><br><br>
-# Status: I have uploaded new pictures of my soldered PCB compared to previous week and the PCB design in Fritzing , i have corrected some connection and soldered again then now it runs great.
+
+# Step 6: If step 5 succeeeds, make the case for your project to make it protective 
+# Go to website Makercase to design then download the .svg file
+# Use CorelDraw to open the .svg file then laser print the case
+# [Enclosure](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/box.cdr)
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/76695280_2584352488312784_4169567359196987392_n.jpg" alt = "Enclosure"><br>
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/78144317_439658750079834_1033063986876121088_n.jpg" alt = "Enclosure"><br>
 
 
 
