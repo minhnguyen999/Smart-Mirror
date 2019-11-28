@@ -1,5 +1,6 @@
 # Smart Mirror - Ultra Sonic Sensor
 # Status: I haven't done the case for sensor because i thought it will block the sensor's function. Otherwise, my PCB and Arduino have the case
+# Week 12 (Nov. 26/28) - [Presentation PPT](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/PresentationMinh.pptx.zip)
 # Week 11 (Nov. 19/21) - [Enclosure](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/box.cdr)
 <img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/76695280_2584352488312784_4169567359196987392_n.jpg" alt = "Enclosure"><br>
 <img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/78144317_439658750079834_1033063986876121088_n.jpg" alt = "Enclosure"><br>
