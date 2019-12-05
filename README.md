@@ -11,8 +11,10 @@
 
 # Step 3: test the design with breadboard in Ariduino software app with following code:
 # Code using in Arduino - [Code](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/arduino%20sensor.docx)
-# Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.HEIC)
-# Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.HEIC)<br>
+# Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg)
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg" alt = "Off"><br>
+# Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.jpg)<br>
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.jpg" alt = "On"><br>
 
 # Step 4: if step 3 succeeds, laser print the PCB and solder pin header into the PCB 
 # [PCB soldered](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/74580334_780354939059517_512763702949183488_n.jpg)
