@@ -20,7 +20,9 @@
 <img src = "documentation/sidebottom.jpg" alt = "PCB Connection"><br><br>
 # Week 8 (Oct. 29/31) 
 # Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg)
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg" alt = "Off"><br>
 # Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.jpg)<br>
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.jpg" alt = "On"><br>
 # Status: I have some mistake with the wires in PCB (bottom or upper layer) so i did it again
 # Week 7 (Oct. 15/16) - [Design](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen2.fzz)
 # Breadboard design - [Breadboard](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/breadboard1.png)
