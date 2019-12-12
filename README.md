@@ -53,7 +53,7 @@
 * Hand off sensor range:
 <img src = "documentation/off.jpg" alt = "Off Sensor"><br>
 * Capture of range:
-<img src = "documentation/Capture.PNG" alt = "Screen"><br><br>
+<img src = "documentation/Capture.PNG" alt = "Screen"><br>
 
 ## <a name="case">Step 7 - Enclosure</a>
 * Go to website Makercase to design then download the .svg file
