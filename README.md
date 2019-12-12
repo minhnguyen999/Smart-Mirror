@@ -10,6 +10,7 @@
 * [Step 5 - Create PCB and Solder](#pcb)
 * [Step 6 - PCB Test](#pcb1)
 * [Step 7 - Enclosure](#case)
+* [Unit Testing](#unit)
 
 ## <a name="intro">Introduction</a>
 * This is the ranging sensor to power up the LED when objects are nearby.
@@ -56,6 +57,8 @@
 <img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/76695280_2584352488312784_4169567359196987392_n.jpg" alt = "Enclosure"><br>
 <img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/78144317_439658750079834_1033063986876121088_n.jpg" alt = "Enclosure"><br>
 
+## <a name="unit">Unit Testing</a>
+* It's possible to create a thousand of products like this without step 4. Because when you assure the test of the first product works, the others will do the same. So we can skip step 4. 
 
 
 
