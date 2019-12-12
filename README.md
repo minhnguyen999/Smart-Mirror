@@ -1,7 +1,20 @@
 # Smart Mirror - Ultra Sonic Sensor (Light Sensor)
- 
-# Step 1: buy the following items:
-# [Parts for my project](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317-PartsForSmartMirror.xlsx)<br>
+## Table of Contents
+* [Introduction](#intro)
+# Step to do the project:
+* [Step 1 - Prepare Parts](#parts)
+* [Step 2 - Timing Plan](#time)
+* [Step 3 - Design is Fritzing](#fritz)
+* [Step 4 - Breadboard Test](#breadboard)
+* [Step 5 - Create PCB and Solder](#pcb)
+* [Step 6 - PCB Test](#pcb1)
+* [Step 7 - Enclosure](#case)
+
+## <a name="intro">Introduction</a>
+* This is the ranging sensor to power up the LED when objects are nearby.
+
+## <a name="parts">Step 1 - Prepare Parts</a>
+* [Parts for my project](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317-PartsForSmartMirror.xlsx)<br>
 
 # Step 2: design it with Fritzing:
 # [Design](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen2.fzz)
