@@ -1,4 +1,6 @@
 # Smart Mirror - Ultra Sonic Sensor (Light Sensor)
+<img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/78144317_439658750079834_1033063986876121088_n.jpg" alt = "Enclosure"><br>
+* HC-SR04 ranging sensor's used to make sensor LED.
 ## Table of Contents
 * [Introduction](#intro)
 * [Step 1 - Prepare Parts](#parts)
