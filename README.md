@@ -33,7 +33,7 @@
 * Schematic design - [Schematic](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/TuanMinhNguyen_schem1.png)<br>
 
 ## <a name="breadboard">Step 4 - Breadboard Test</a>
-* Code using in Arduino - [Code](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/arduino%20sensor.docx)
+* Code using in Arduino App - [Code](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/arduino%20sensor.docx)
 * Breadboard Light Sensor Off - [Light Off](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg)
 <img src = "https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4305.jpg" alt = "Off"><br>
 * Breadboard Light Sensor On - [Light On](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/IMG_4309.jpg)<br>
