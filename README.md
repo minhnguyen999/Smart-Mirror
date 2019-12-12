@@ -46,7 +46,7 @@
 <img src = "documentation/on.jpg" alt = "On Sensor"><br>
 * Hand off sensor range:
 <img src = "documentation/off.jpg" alt = "Off Sensor"><br>
-* Capture:
+* Capture of range:
 <img src = "documentation/Capture.PNG" alt = "Screen"><br><br>
 
 ## <a name="case">Step 7 - Enclosure</a>
