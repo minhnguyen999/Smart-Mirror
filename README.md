@@ -1,7 +1,7 @@
 # Smart Mirror - Ultra Sonic Sensor (Light Sensor)
 ## Table of Contents
 * [Introduction](#intro)
-# Step to do the project:
+* Step to do the project:
 * [Step 1 - Prepare Parts](#parts)
 * [Step 2 - Timing Plan](#time)
 * [Step 3 - Design is Fritzing](#fritz)
