@@ -18,6 +18,10 @@
 
 ## <a name="parts">Step 1 - Prepare Parts</a>
 * [Parts for my project](https://github.com/minhnguyen999/Smart-Mirror/blob/master/documentation/CENG317-PartsForSmartMirror.xlsx)<br>
+* Arduino Uno
+* LED
+* Cable to connect Arduino to computer
+* PCB
 
 ## <a name="time">Step 2 - Timing Plan</a>
 * This project should be divided into 2 parts: planning and implementation: planning include the first two steps which should take 1 week; the other part should be done in 2 weeks: first week on the Breadboard and test, the second week is to do with PCB and enclosure  .
