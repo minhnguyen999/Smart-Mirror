@@ -1,10 +1,10 @@
 # Smart Mirror - Ultra Sonic Sensor (Light Sensor)
 ## Table of Contents
 * [Introduction](#intro)
-* Step to do the project:
-* [Step 1 - Prepare Parts](#parts)
-* [Step 2 - Timing Plan](#time)
-* [Step 3 - Design is Fritzing](#fritz)
+### Step to do the project:
+** [Step 1 - Prepare Parts](#parts)
+** [Step 2 - Timing Plan](#time)
+** [Step 3 - Design is Fritzing](#fritz)
 * [Step 4 - Breadboard Test](#breadboard)
 * [Step 5 - Create PCB and Solder](#pcb)
 * [Step 6 - PCB Test](#pcb1)
